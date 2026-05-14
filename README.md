@@ -1,5 +1,5 @@
 # reWASD-torrent
-torrent
+torrent.
 
 Install the program and close it without restarting your PC, laptop, or other device.
 
